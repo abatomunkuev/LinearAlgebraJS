@@ -1,0 +1,16 @@
+{
+  "name": "linearjs",
+  "version": "1.0.0",
+  "description": "This is linear algebra library for JavaScript. Library contains Vector and Matrix classes and most of the calculation methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linearAlgebra",
+    "vector",
+    "matrix"
+  ],
+  "author": "Andrei Batomunkuev",
+  "license": "MIT"
+}
